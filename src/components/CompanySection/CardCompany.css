@@ -1,0 +1,45 @@
+.card-company {
+    width: 150px;
+    height: 150px;
+    margin: 0px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    flex-direction: column;
+}
+
+.card-company:hover {
+    transform: scale(1.06);
+    transition: all 0.3s ease-out;
+    color: #1c2237;
+}
+
+.cadr-company-img {
+    width: 130px;
+    height: 100px;
+    margin-top: 10px;
+    border-radius: 4px;
+    box-shadow: 0 6px 20px rgba(16, 16, 16, 0.2);
+    background-color: #ffff;
+    border: 1px solid #1a1359;
+    padding: 5px
+}
+
+.card-company-Link {
+    font-size: '15px';
+    color: #1a1359;
+}
+
+@media screen and (max-width: 320px) {
+    .cadr-company-img {
+        width: 100px;
+        height: 70px;
+        margin-top: 10px;
+        border-radius: 4px;
+        box-shadow: 0 6px 20px rgba(16, 16, 16, 0.2);
+        background-color: #ffff;
+        border: 1px solid #1a1359;
+        padding: 5px
+    }
+}
