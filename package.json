@@ -1,6 +1,6 @@
 {
     "name": "iac-website",
-    "homepage": "https://hanseroland.github.io/iac-website/",
+    "homepage": "https://hanseroland.github.io/iac",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
