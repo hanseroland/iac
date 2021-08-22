@@ -3,8 +3,8 @@ import "./Slide.css";
 import Slider from "react-slick";
 
 import astronaut from '../../images/batiment.jpg'
-import celebrating from '../../images/excavator-action.jpg'
-import education from '../../images/group-steel-.jpg'
+import celebrating from '../../images/excavator-action.png'
+import education from '../../images/group-steel-.png'
 import taken from '../../images/close-up-hard-hat-holding-by-construction-worker.jpg'
 
 import { FaArrowRight, FaArrowLeft } from "react-icons/fa";

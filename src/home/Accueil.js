@@ -20,7 +20,7 @@ const HeroObjet =
     lightText: false,
     lightTextDesc: true,
     topLine: 'Le savoir-faire',
-    headLine: "L’Ingénierie au Services de vos Projets",
+    headLine: "L’Ingénierie au Services de vos projets",
     description: "L’approche humaine de notre cabinet est un atout pour répondre à notre haute exigence de performance et présenter une  vision neuve.",
     buttonLabel: 'Voir plus',
     dark: true,

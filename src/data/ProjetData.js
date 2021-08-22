@@ -1,5 +1,5 @@
 import ImageOne from '../images/slide-8.jpg'
-import ImageTwo from '../images/danist-dqXiw7nCb9Q-unsplash.jpg'
+import ImageTwo from '../images/danist-dqXiw7nCb9Q-unsplash.png'
 import ImageThree from '../images/scott-blake-s9XDWLJ_LyE-unsplash.jpg'
 import ImageFour from '../images/etienne-girardet-sgYamIzhAhg-unsplash.jpg'
 

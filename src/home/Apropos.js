@@ -110,7 +110,7 @@ const Apropos =  () => {
                                       
                                             {
                                               CompetencesData.map((item,index)=>(
-                                                  <Grid key={index} item lg={3} xs={12} >
+                                                  <Grid key={index} item lg={3} md={4} >
                                                         <SkillsCard  {...item} />
                                                   </Grid>
                                               ))

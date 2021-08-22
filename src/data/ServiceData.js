@@ -1,8 +1,8 @@
 import ImageOne from '../images/batiment-1.jpg'
 import ImageTwo from '../images/slide-7.jpg'
-import ImageThree from '../images/construction-plans-with-yellow-helmet-drawing-tools-bluep.jpg'
+import ImageThree from '../images/construction-plans-with-yellow-helmet-drawing-tools-bluep.png'
 import ImageFour from '../images/architect.jpg'
-import ImageFive from '../images/construction-silhouette.jpg'
+import ImageFive from '../images/construction-silhouette.png'
 import ImageSix from '../images/genie-civil.jpg'
 
 export const ServiceData = [
@@ -11,9 +11,9 @@ export const ServiceData = [
         titre:'Contrôle Technique',
         subtitre:'Pour faire face aux enjeux relatifs à la conception, la construction ou la rénovation de vos ouvrages',
         image:ImageOne,
-        description:'Pour faire face aux enjeux relatifs à la conception, la construction'+
-        'ou la rénovation de vos ouvrages, et pour anticiper tous les aléas techniques liés'+
-        'à la construction, Ingénierie Assistance et contrôle technique met à votre disposition'+
+        description:'Pour faire face aux enjeux relatifs à la conception, la construction '+
+        'ou la rénovation de vos ouvrages, et pour anticiper tous les aléas techniques liés '+
+        'à la construction, Ingénierie Assistance et contrôle technique met à votre disposition '+
         'ses ingénieurs expérimentés, afin  de vérifier selon la loi du 4 janvier 1978 relative'+
         'à l’acte de construire, compléter par la norme française NFP : 03-10  \n\n'+
         '-La Solidité des Ouvrages  \n'+
@@ -30,8 +30,8 @@ export const ServiceData = [
         image:ImageTwo,
         description:'Exploitants d’équipement en service (machines, appareils de levage,'+
                     'installations électriques, installations gaz…) chef d’établissement. \n\n'+
-                    'Vos équipements doivent l’objet de vérifications périodiques(ou de mise en service).'+
-                    'Nos ingénieurs et techniciens vous accompagnent pour assurer la qualité et la'+
+                    'Vos équipements doivent l’objet de vérifications périodiques(ou de mise en service). '+
+                    'Nos ingénieurs et techniciens vous accompagnent pour assurer la qualité et la '+
                     'fiabilité de l’ensemble de vos équipements, ainsi que la sécurité de vos salariés et utilisateurs.\n\n'+
                     '-Installations électriques  \n'+
                     '-Appareils et accessoires de levage  \n'+
@@ -84,11 +84,11 @@ export const ServiceData = [
     {
         _id:6,
         titre:'Le  Bâtiment / Génie  civil',
-        subtitre:'L’optimisation, l’économie du projet et la recherche de solutions ',
+        subtitre:"L’optimisation, l'économie du projet et la recherche de solutions ",
         image:ImageSix,
-        description:'L’optimisation, l »économie du projet et la recherche de solutions techniques fiables'+ 
-        'et innovantes sont nos objectifs pour la satisfaction de chacun de nos clients. Notre savoir-faire'+ 
-        'dans ce domaine se développe aujourd’hui au Gabon et dans la sous-région. Nous assurons des missions'+
+        description:'L’optimisation l’économie du projet et la recherche de solutions techniques fiables '+ 
+        'et innovantes sont nos objectifs pour la satisfaction de chacun de nos clients. Notre savoir-faire '+ 
+        'dans ce domaine se développe aujourd’hui au Gabon et dans la sous-région. Nous assurons des missions '+
         'de programmation, d’évolution des besoins ainsi des missions d’assistance pour d’acquisition.'
        
     }

@@ -1,9 +1,9 @@
-import ImageOne from '../images/etty-fidele-VNYCIbZju0o-unsplash.jpg';
+import ImageOne from '../images/etty-fidele-VNYCIbZju0o-unsplash.png';
 import ImageTwo from '../images/caique-silva-KJE--xk4AWE-unsplash.jpg';
-import ImageThree from '../images/taylor-grote-UiVe5QvOhao-unsplash.jpg';
+import ImageThree from '../images/taylor-grote-UiVe5QvOhao-unsplash.png';
 import ImageFour from '../images/emmanuel-ikwuegbu-KHO_jvns5Xc-unsplash.jpg';
 import ImageFive from '../images/gleisson-joaquim-MTMsK4cEF3M-unsplash.jpg';
-import ImageSix from '../images/etty-fidele-6UWqw25wfLI-unsplash.jpg';
+import ImageSix from '../images/etty-fidele-6UWqw25wfLI-unsplash.png';
 
 
 

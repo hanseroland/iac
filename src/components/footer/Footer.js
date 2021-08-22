@@ -75,7 +75,7 @@ function Footer(props) {
             >
               <i class='fab fa-facebook-f' />
             </Link>
-            <Link
+           {/* <Link
               class='social-icon-link instagram'
               to='/'
               target='_blank'
@@ -88,9 +88,9 @@ function Footer(props) {
               to='/'
               target='_blank'
               aria-label='Youtube'
-            >
+           >
               <i class='fab fa-youtube' />
-            </Link>
+            </Link>*/}
             <Link
               class='social-icon-link twitter'
               to='/'

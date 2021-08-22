@@ -1,6 +1,6 @@
 import ImageOne from '../images/batiment.jpg'
-import ImageTwo from '../images/excavator-action.jpg'
-import ImageThree from '../images/group-steel-.jpg'
+import ImageTwo from '../images/excavator-action.png'
+import ImageThree from '../images/group-steel-.png'
 import ImageFour from '../images/close-up-hard-hat-holding-by-construction-worker.jpg'
 
 export const SliderData = [

@@ -14,6 +14,7 @@ import SavoireFaire from './home/SavoireFaire';
 import SecondLayout from './home/SecondLayout';
 import ServiceDetail from './home/ServiceDetail';
 import Services from './home/Services';
+import Erreur from './home/Erreur';
 
 
 
@@ -35,6 +36,8 @@ function App() {
                         <AppRoutes   path="/equipe"   component={Equipe}  layout={SecondLayout} />
                         <AppRoutes   path="/contact"   component={Contact}  layout={SecondLayout} />
                         <AppRoutes   path="/partenaires"   component={Partenaires}  layout={SecondLayout} />
+                        <Route  component={Erreur} />
+
                         
                 </Switch>
           </Router>
