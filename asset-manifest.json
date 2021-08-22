@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iac/static/css/main.2f5bf4b3.chunk.css",
-    "main.js": "/iac/static/js/main.be0665d1.chunk.js",
-    "main.js.map": "/iac/static/js/main.be0665d1.chunk.js.map",
+    "main.js": "/iac/static/js/main.176bf3c9.chunk.js",
+    "main.js.map": "/iac/static/js/main.176bf3c9.chunk.js.map",
     "runtime-main.js": "/iac/static/js/runtime-main.0326412a.js",
     "runtime-main.js.map": "/iac/static/js/runtime-main.0326412a.js.map",
     "static/css/2.1d31cd5f.chunk.css": "/iac/static/css/2.1d31cd5f.chunk.css",
@@ -15,7 +15,6 @@
     "static/css/main.2f5bf4b3.chunk.css.map": "/iac/static/css/main.2f5bf4b3.chunk.css.map",
     "static/js/2.39962df5.chunk.js.LICENSE.txt": "/iac/static/js/2.39962df5.chunk.js.LICENSE.txt",
     "static/media/angular.png": "/iac/static/media/angular.8cbd3d8b.png",
-    "static/media/architect.8e38cafa.jpg": "/iac/static/media/architect.8e38cafa.jpg",
     "static/media/batiment-1.dd7808c4.jpg": "/iac/static/media/batiment-1.dd7808c4.jpg",
     "static/media/batiment.ca2c7a2a.jpg": "/iac/static/media/batiment.ca2c7a2a.jpg",
     "static/media/caique-silva-KJE--xk4AWE-unsplash.e14d1d2b.jpg": "/iac/static/media/caique-silva-KJE--xk4AWE-unsplash.e14d1d2b.jpg",
@@ -37,6 +36,7 @@
     "static/media/group-steel-.7e4b626e.png": "/iac/static/media/group-steel-.7e4b626e.png",
     "static/media/interlocuteur-1.9eda6ab3.jpg": "/iac/static/media/interlocuteur-1.9eda6ab3.jpg",
     "static/media/material_ui.png": "/iac/static/media/material_ui.97f71d15.png",
+    "static/media/pexels-burst-544966.c8922f3c.jpg": "/iac/static/media/pexels-burst-544966.c8922f3c.jpg",
     "static/media/react.jpg": "/iac/static/media/react.7927890c.jpg",
     "static/media/scott-blake-s9XDWLJ_LyE-unsplash.69fc43bc.jpg": "/iac/static/media/scott-blake-s9XDWLJ_LyE-unsplash.69fc43bc.jpg",
     "static/media/Slide.css": "/iac/static/media/slick.c94f7671.ttf",
@@ -54,6 +54,6 @@
     "static/css/2.1d31cd5f.chunk.css",
     "static/js/2.39962df5.chunk.js",
     "static/css/main.2f5bf4b3.chunk.css",
-    "static/js/main.be0665d1.chunk.js"
+    "static/js/main.176bf3c9.chunk.js"
   ]
 }
