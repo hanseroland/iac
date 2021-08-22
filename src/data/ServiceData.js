@@ -1,7 +1,7 @@
 import ImageOne from '../images/batiment-1.jpg'
 import ImageTwo from '../images/slide-7.jpg'
 import ImageThree from '../images/construction-plans-with-yellow-helmet-drawing-tools-bluep.png'
-import ImageFour from '../images/architect.jpg'
+import ImageFour from '../images/pexels-burst-544966.jpg'
 import ImageFive from '../images/construction-silhouette.png'
 import ImageSix from '../images/genie-civil.jpg'
 

@@ -35,7 +35,7 @@ export const ActuData = [
     {
         _id:4,
         titre:'Disponibilité',
-        subtitre:"Salon de l'aménagement",
+        subtitre:"Présent tout le long de la vie  du projet",
         image:ImageFour,
         description:'Présent tout le long de la vie  du projet  INGENIERIE '+ 
                     'Assistance et Contrôle met à votre service sa capacité d’anticiper'+ 
